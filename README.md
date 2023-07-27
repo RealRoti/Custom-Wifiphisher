@@ -1,5 +1,5 @@
-# custom-wifiphisher
-Under construction.
+# Custom Wifiphisher
+Custom configuration for wireless network penetration testing, using wifiphisher .
 
 ## Commands
 ``git clone https://github.com/realroti/custom-wifiphisher``
